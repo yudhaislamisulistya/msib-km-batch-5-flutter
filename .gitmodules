@@ -67,3 +67,6 @@
 [submodule "Flutter_Yustika-Perwita-Sari"]
 	path = Flutter_Yustika-Perwita-Sari
 	url = https://github.com/Yustikaprwt/Flutter_Yustika-Perwita-Sari
+[submodule "Flutter_Faris-Danuarta"]
+	path = Flutter_Faris-Danuarta
+	url = https://github.com/danuartafariss/Flutter_Faris-Danuarta
