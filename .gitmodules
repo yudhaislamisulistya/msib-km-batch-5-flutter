@@ -1,3 +1,6 @@
 [submodule "flutter_ade-fery-angriawan"]
 	path = flutter_ade-fery-angriawan
 	url = https://github.com/ferya2/flutter_ade-fery-angriawan.git
+[submodule "flutter_yudha"]
+	path = flutter_yudha
+	url = https://github.com/yudhaislamisulistya/flutter_yudha
