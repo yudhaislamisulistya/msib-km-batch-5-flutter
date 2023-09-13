@@ -1,1 +1,2 @@
-Hallo!
+# 2023 Complete Front-End Engineer Career with Flutter
+Welcome to the 2023 Complete Front-End Engineer Career with Flutter course! This README serves as a guide to the weekly topics and learning objectives covered throughout the course.
