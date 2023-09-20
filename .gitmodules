@@ -73,3 +73,6 @@
 [submodule "nurulsafitri2"]
 	path = nurulsafitri2
 	url = https://github.com/nurulsafitri321/nurulsafitri2
+[submodule "flutter_gilang-rakha-aditya"]
+	path = flutter_gilang-rakha-aditya
+	url = https://github.com/gilangrakha/flutter_gilang-rakha-aditya
