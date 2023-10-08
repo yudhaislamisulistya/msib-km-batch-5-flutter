@@ -76,3 +76,6 @@
 [submodule "flutter_gilang-rakha-aditya"]
 	path = flutter_gilang-rakha-aditya
 	url = https://github.com/gilangrakha/flutter_gilang-rakha-aditya
+[submodule "flutter_dindaamaliana"]
+	path = flutter_dindaamaliana
+	url = https://github.com/dindaamalianag/flutter_dindaamaliana
